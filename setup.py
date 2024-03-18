@@ -26,7 +26,7 @@ setup(
     packages=find_packages(),
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Lattice-Automation/primers",
+    url="https://github.com/HafizMHammad/QuantPrimer",
     install_requires=requirements,
     classifiers=[
         "Programming Language :: Python :: 3 :: Only",
